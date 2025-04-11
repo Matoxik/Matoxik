@@ -16,6 +16,6 @@ I'm a 3rd year Computer Science student at Poznań University of Technology. My 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,idea,firebase,cpp,arduino,androidstudio,git)](https://skillicons.dev)
 ## Currently learning
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,angular,spring)](https://skillicons.dev)
 
 Feel free to connect with me or check out my projects!
